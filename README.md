@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aparimit-Rathour
-- 👀 I’m interested in Acting and learning new skills.
+- 👀 I’m interested learning new skills.
 - 🌱 I’m currently learning C++ and Java
 - 📫 How to reach me https://www.instagram.com/aparimit_/
 
