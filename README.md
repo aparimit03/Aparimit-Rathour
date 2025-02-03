@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 - https://www.youtube.com/watch?v=ME3LH2bib3g
 - https://www.youtube.com/playlist?list=PL0pXjGnY7POSdxd83C5WpDhp8KQLc4sif
 - https://www.youtube.com/watch?v=uLs2FxFSWU4
+- https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
